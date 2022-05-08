@@ -1,0 +1,11 @@
+{
+  "name": "wc-split-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "esbuild": "0.14.38",
+    "esbuild-sass-plugin": "2.2.6"
+  }
+}
