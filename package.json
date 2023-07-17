@@ -5,7 +5,7 @@
     "build": "node build.mjs"
   },
   "dependencies": {
-    "esbuild": "0.14.38",
-    "esbuild-sass-plugin": "2.2.6"
+    "esbuild": "0.18.13",
+    "esbuild-sass-plugin": "2.10.0"
   }
 }
