@@ -7,7 +7,7 @@ await build({
    */
   entryPoints: ['my-component.ts'],
   /**
-   * Active bundling so that import statement are evaluated
+   * Activate bundling so that import statements are evaluated
    * and their content inlined
    */
   bundle: true,
